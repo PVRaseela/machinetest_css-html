@@ -1,0 +1,103 @@
+body{
+    height: 590px;
+    width: 1280px;
+
+}
+ #hdivid{
+     height:60px;
+     background-color: rgb(247, 247, 5);
+
+ }
+#hdivid a{
+    padding-left: 10px;
+    color: black;
+    
+    
+}
+#bdivid1{
+    background-color: rgb(151, 151, 66);
+   
+    height: 300px;
+    
+}
+#bdivid2{
+    background-color: white;
+   
+    height: 300px;
+    
+}
+#hid1{
+    color: red;
+    text-align: center;
+}
+#hid2{
+    color: black;
+    text-align: center;
+}
+#imgkidid{
+    height: 300px;
+    width:45%;
+    text-align: center;
+}
+.center{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+#bdivid2{
+    background-color: white;
+   
+    height: 300px;
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px 150px;
+    grid-template-rows: auto auto auto auto auto;
+    column-gap: 10px;
+
+}
+#fdivid{
+    height:60px;
+     background-color: rgb(247, 247, 5);
+    
+}
+#hid3{
+    text-align: center;
+    padding-top: 20px;
+}
+#bdivid4{
+    background-color: white;
+}
+#bdivid5{
+    display: block;
+    /* text-align: center; */
+    width: 45%;
+    word-wrap: normal;
+}
+.center1{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+}
+#imgid2{
+    height: 350px;
+    width: 350px;
+    
+}
+#spanid1{
+    
+    text-align: center;
+}
+#spanid2{
+    text-align: left;
+}
+tr{
+    height: 100px;
+}
+#hid5{
+    padding-left: 80px;
+}
