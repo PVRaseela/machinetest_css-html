@@ -57,6 +57,12 @@ body{
     column-gap: 10px;
 
 }
+ #bdivid8{
+  
+margin-bottom: 0px;
+padding-bottom: 0%;
+ } 
+
 #fdivid{
     height:60px;
      background-color: rgb(247, 247, 5);
@@ -89,7 +95,6 @@ body{
     
 }
 #spanid1{
-    
     text-align: center;
 }
 #spanid2{
